@@ -1,0 +1,17 @@
+/usr/local/Cellar/cmake/3.17.3/bin/cmake -DCMAKE_BUILD_TYPE=Debug -L /usr/lib -lssl -lcrypto -G "CodeBlocks - Unix Makefiles" /Users/joelcolbeck/CLionProjects/DnDbot
+-- Found OpenSSL: /usr/lib/libcrypto.dylib (found version "1.0.2s")  
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/joelcolbeck/CLionProjects/DnDbot/cmake-build-debug
+-- Cache values
+Boost_INCLUDE_DIR:PATH=/usr/local/include
+Boost_SYSTEM_LIBRARY_RELEASE:STRING=/usr/local/lib/libboost_system-mt.dylib
+CMAKE_BUILD_TYPE:STRING=Debug
+CMAKE_CODEBLOCKS_COMPILER_ID:STRING=
+CMAKE_CODEBLOCKS_EXECUTABLE:FILEPATH=CMAKE_CODEBLOCKS_EXECUTABLE-NOTFOUND
+CMAKE_CODEBLOCKS_MAKE_ARGUMENTS:STRING=-j4
+CMAKE_EXECUTABLE_FORMAT:STRING=MACHO
+CMAKE_INSTALL_PREFIX:PATH=/usr/local
+CMAKE_OSX_ARCHITECTURES:STRING=
+CMAKE_OSX_DEPLOYMENT_TARGET:STRING=
+CMAKE_OSX_SYSROOT:PATH=/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk
