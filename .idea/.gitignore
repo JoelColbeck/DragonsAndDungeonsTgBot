@@ -6,3 +6,5 @@
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+# Token for telegram_bot
+/Users/joelcolbeck/CLionProjects/DnDbot/token_file
