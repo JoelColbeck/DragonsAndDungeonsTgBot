@@ -1,5 +1,4 @@
 /usr/local/Cellar/cmake/3.17.3/bin/cmake -DCMAKE_BUILD_TYPE=Debug -L /usr/lib -lssl -lcrypto -G "CodeBlocks - Unix Makefiles" /Users/joelcolbeck/CLionProjects/DnDbot
--- Found OpenSSL: /usr/lib/libcrypto.dylib (found version "1.0.2s")  
 -- Configuring done
 -- Generating done
 -- Build files have been written to: /Users/joelcolbeck/CLionProjects/DnDbot/cmake-build-debug

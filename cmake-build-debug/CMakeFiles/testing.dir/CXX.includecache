@@ -19,6 +19,12 @@ string
 -
 tgbot/tgbot.h
 -
+phrases.h
+/Users/joelcolbeck/CLionProjects/DnDbot/phrases.h
+
+/Users/joelcolbeck/CLionProjects/DnDbot/phrases.h
+string
+-
 
 /Users/joelcolbeck/Work/tgbot-cpp/include/tgbot/Api.h
 tgbot/TgTypeParser.h

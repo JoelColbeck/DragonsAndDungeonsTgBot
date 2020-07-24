@@ -6,7 +6,6 @@ set(CMAKE_CXX_STANDARD 14)
 
 
 include_directories(/Users/joelcolbeck/Work/tgbot-cpp/include)
-add_executable(testing main.cpp)
 
 # see https://cmake.org/cmake/help/latest/module/FindBoost.html
 find_package(Boost REQUIRED COMPONENTS system)
@@ -18,6 +17,8 @@ if (CURL_FOUND)
     include_directories(${CURL_INCLUDE_DIRS})
     add_definitions(-DHAVE_CURL)
 endif()
+
+add_executable(testing main.cpp phrases.h)
 #
 # -L /usr/lib -lssl -lcrypto
 # OPENSSL_ROOT_DIR=/usr/local/Cellar/openssl/1.0.2s

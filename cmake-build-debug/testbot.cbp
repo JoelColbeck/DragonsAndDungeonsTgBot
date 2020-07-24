@@ -95,6 +95,9 @@
 		<Unit filename="/Users/joelcolbeck/CLionProjects/DnDbot/main.cpp">
 			<Option target="testing"/>
 		</Unit>
+		<Unit filename="/Users/joelcolbeck/CLionProjects/DnDbot/phrases.h">
+			<Option target="testing"/>
+		</Unit>
 		<Unit filename="/Users/joelcolbeck/CLionProjects/DnDbot/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
